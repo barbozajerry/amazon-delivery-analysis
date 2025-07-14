@@ -16,6 +16,11 @@ After recieving my bachelor's in **Applied Mathemathisc** from **University of C
 
 Now that I’ve completed my Master’s degree, I am actively applying for **Data Analytics** roles within **Amazon** where I can apply my skills in **Python, SQL, Data Visualization,** and **Statistics**. I’m passionate about using these tools to help others and excited to continue **supporting Amazon’s mission to bring smiles to customers through data-driven insights**.
 
+## 🗺️ Project Overview
+
+In this project, I analyzed 
+
+
 ## 🛠 Tools & Data
 
 - **Notebook Environment:** Jupyter Notebooks  
