@@ -1,8 +1,6 @@
-<p align="right"> # 📦 Amazon Delivery Route Analysis
-  <img src="Amazon-Symbol.jpg" alt="Amazon Logo" width="220"/>
-</p>
+<img src="Amazon-Symbol.jpg" alt="Amazon Logo" style="float: right; width: 220px; margin-left: 10px;"/>
 
-
+# 📦 Amazon Delivery Route Analysis
 
 **Author:** Jerry Barboza  
 **Date:** July 2025  
