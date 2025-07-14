@@ -1,4 +1,6 @@
-<img src="Amazon-Symbol.jpg" alt="Amazon Logo" style="float: right; width: 220px; margin-left: 10px;"/>
+<p align="right">
+  <img src="Amazon-Symbol.jpg" alt="Amazon Logo" width="120"/>
+</p>
 
 # 📦 Amazon Delivery Route Analysis
 
