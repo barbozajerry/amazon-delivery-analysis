@@ -1,8 +1,8 @@
-<p align="right">
+<p align="right"> # 📦 Amazon Delivery Route Analysis
   <img src="Amazon-Symbol.jpg" alt="Amazon Logo" width="220"/>
 </p>
 
-# 📦 Amazon Delivery Route Analysis
+
 
 **Author:** Jerry Barboza  
 **Date:** July 2025  
